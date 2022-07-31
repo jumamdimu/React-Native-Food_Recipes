@@ -7,7 +7,7 @@ React-Native-Food_Recipes
   <table>
     <tr>
       <td>
-        <img src="images/Screenshot_20220712-123210.png" />
+        <img src="images/Screenshot_20220712-123529.png" />
       </td>
       <td>
         <ul>
@@ -26,7 +26,8 @@ React-Native-Food_Recipes
           <li>
             <h4>MIT License</h4>
             Use this project without license restrictions.
-          </li>         
+          </li> 
+        </ul>
       </td>
     </tr>
   </table>
@@ -81,19 +82,30 @@ React-Native-Food_Recipes
 </div>
 
 # Features
-
-  Recipes List
-  Categories
-  Ingredients
-  Recipe Details Screen
-  Photo Gallery
-  Recipe Description
-  Ingredients List
-  Recipes by Ingredient
-  Search
-  Drawer Menu & Navigation Bar
-  Beautiful UI Design Kit
-  Compatible with Expo
+        <ul>
+          <li>Recipes List</li>
+          <li>Categories</li>
+          <li>Ingredients</li>
+          <li>Recipe Details Screen</li>
+          <li>Recipe Description</li>
+          <li>Ingredients List</li>
+          <li>Search</li>
+          <li>Drawer Menu & Navigation Bar</li>
+          <li>Beautiful UI Design Kit</li>
+          <li>Compatible with Expo</li>
+        </ul>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
