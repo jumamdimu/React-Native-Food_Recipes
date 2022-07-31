@@ -82,18 +82,18 @@ React-Native-Food_Recipes
 </div>
 
 # Features
-        <ul>
-          <li>Recipes List</li>
-          <li>Categories</li>
-          <li>Ingredients</li>
-          <li>Recipe Details Screen</li>
-          <li>Recipe Description</li>
-          <li>Ingredients List</li>
-          <li>Search</li>
-          <li>Drawer Menu & Navigation Bar</li>
-          <li>Beautiful UI Design Kit</li>
-          <li>Compatible with Expo</li>
-        </ul>
+<ul>
+  <li>Recipes List</li>
+  <li>Categories</li>
+  <li>Ingredients</li>
+  <li>Recipe Details Screen</li>
+  <li>Recipe Description</li>
+  <li>Ingredients List</li>
+  <li>Search</li>
+  <li>Drawer Menu & Navigation Bar</li>
+  <li>Beautiful UI Design Kit</li>
+  <li>Compatible with Expo</li>
+</ul>
   
   
   
